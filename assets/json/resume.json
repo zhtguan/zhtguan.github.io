@@ -63,12 +63,7 @@
       "startDate": "2021-09-01",
       "endDate": "Present",
       "score": "GPA: 3.80/4.00",
-      "courses": [
-        "Introduction to Control",
-        "Signals and Systems",
-        "Electromagnetics",
-        "Power Electronics"
-      ]
+      "courses": ["Introduction to Control", "Signals and Systems", "Electromagnetics", "Power Electronics"]
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -79,10 +74,7 @@
       "startDate": "2024-02-01",
       "endDate": "2024-05-31",
       "score": "GPA: 5.00/5.00",
-      "courses": [
-        "Underactuated Robotics",
-        "Nonlinear Control"
-      ]
+      "courses": ["Underactuated Robotics", "Nonlinear Control"]
     }
   ],
   "awards": [
@@ -125,20 +117,12 @@
     {
       "name": "Robotics",
       "level": "Advanced",
-      "keywords": [
-        "Insect-Scale Robots",
-        "Trajectory Optimization",
-        "Nonlinear Control"
-      ]
+      "keywords": ["Insect-Scale Robots", "Trajectory Optimization", "Nonlinear Control"]
     },
     {
       "name": "Power Systems",
       "level": "Advanced",
-      "keywords": [
-        "Fault Location",
-        "Inverters",
-        "Photovoltaic Systems"
-      ]
+      "keywords": ["Fault Location", "Inverters", "Photovoltaic Systems"]
     }
   ],
   "languages": [
@@ -154,11 +138,7 @@
   "interests": [
     {
       "name": "Robotics",
-      "keywords": [
-        "Insect-Scale Robots",
-        "Hybrid Locomotion",
-        "Soft Actuators"
-      ]
+      "keywords": ["Insect-Scale Robots", "Hybrid Locomotion", "Soft Actuators"]
     }
   ],
   "references": [

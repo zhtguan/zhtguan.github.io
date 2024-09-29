@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Visiting Student at SMRL, RLE, EECS, MIT;
+subtitle: 
 
 profile:
   align: right

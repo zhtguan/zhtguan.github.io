@@ -2,96 +2,107 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Zhongtao (Tony) Guan
     - name: Date of Birth
-      value: 14th March 1879
+      value: [Not provided in the CV]
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Engineering
+      institution: ShanghaiTech University, Shanghai, China
+      year: Sep. 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 3.80/4.00; Ranking 3/56
+        - Core courses: Introduction to Control, Signals and Systems, Electromagnetic, Power Electronics
+        - Scholarship: Undergrad. National Exchange Scholarship; International Conference Scholarship
+
+    - title: Special Student Program in EECS
+      institution: Massachusetts Institute of Technology, Cambridge, Massachusetts, U.S.
+      year: Feb. 2024 - May 2024
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 5.00/5.00
+        - Core courses: Underactuated Robotics, Nonlinear Control
+
+    - title: Undergraduate Visiting Student in EECS
+      institution: Massachusetts Institute of Technology, Cambridge, Massachusetts, U.S.
+      year: July 2024 - Present
+      description:
+        - Advisor: Kevin Chen
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Implicit Regularization and Dynamic Gain in Nonlinear Control
+      institution: Massachusetts Institute of Technology
+      year: Sep. 2023 - Jan. 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor: Prof. Jiahao Chen
+        - Contributed to nonlinear control research, focusing on dynamic gain and implicit regularization
+
+    - title: Sensor Autonomy for Insect-Scale Robots
+      institution: Massachusetts Institute of Technology
+      year: July 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Prof. Kevin Chen
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Hybrid Locomotion at Insect Scale
+      institution: Massachusetts Institute of Technology
+      year: Jan. 2024 - Sep. 2024
       description:
+        - Presented a sub-gram flapping-wing passive hopper at insect scale using soft actuators
+        - Demonstrated capabilities in overcoming obstacles, navigating challenging terrains, and exhibiting high agility
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: A Backdrivable Leg Design Using Linear Actuators
+      institution: ShanghaiTech University
+      year: Aug. 2023 - Jan. 2024
+      description:
+        - Developed a backdrivable 2-DoF leg prototype for walking and jumping
+        - Led the design of the mechatronics system and built simulation environments using Webots
+
+    - title: Fault Location of Power Systems
+      institution: ShanghaiTech University
+      year: Jun. 2022 - Jan. 2023
+      description:
+        - Proposed methods for fault location on hybrid power systems, accepted in PESGM
+
+    - title: Design and Control of Inverter
+      institution: ShanghaiTech University
+      year: Jan. 2023 - Aug. 2023
+      description:
+        - Designed and controlled a three-phase inverter for grid-connected photovoltaic systems
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/DoZz-M">CuryLegWebotSimulation</a>
+      year: 2023-now
+      description: Developed a simulation environment for a backdrivable leg design.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Outstanding Teaching Assistant, ShanghaiTech University
+        - RoboMaster University Championship (2nd Prize in Shanghai Division)
+        - National Undergraduate Electronic Design Contest (2nd Prize in Shanghai Division)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Nonlinear Control
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Dynamic Gain
+        - Implicit Regularization
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - Insect-Scale Robots
+        - Hybrid Locomotion
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Robotics, Electronics, Mechanical Design

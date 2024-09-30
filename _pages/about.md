@@ -15,8 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I’m Tony, an undergraduate student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/), currently a visiting student in the [Soft and Micro Robotics Laboratory](https://smrl.mit.edu/) at [MIT](https://mit.edu/).
+I’m Tony, an undergraduate student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), currently a visiting student in the [Soft and Micro Robotics Laboratory](https://smrl.mit.edu/) at [MIT](https://mit.edu/).
 
-My research focuses on building advanced, robust robotic systems by integrating sensing and estimation, power electronics, and model-based/ data-driven control/optimization theory. My passion goes beyond constructing and controlling robots but also improving them through optimization methods, bio-inspriation, deep understanding of physics phenomena, driving toward more intelligent and powerful robots.
+My research focuses on building advanced, robust robotic systems by integrating sensor, estimation, power electronics, and model-based/ data-driven control/optimization theory. My passion goes beyond constructing and controlling robots but also improving them through optimization methods, bio-inspriation, deep understanding of physics phenomena, driving toward more interesting, intelligent and powerful robots.
 
-I am seeking PhD opportunities in Robotics in Fall 2025.
+**I am seeking PhD opportunities in Robotics in Fall 2025.**

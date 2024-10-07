@@ -20,4 +20,3 @@ I'm Tony, an undergraduate student at [ShanghaiTech University](https://www.shan
 My research focuses on building advanced, robust robotic systems by integrating sensors, estimation, mechatronics, and model-based/data-driven control/optimization theory. My passion goes beyond constructing and controlling robots but also creates and utilizes specality of the structure for control and directs the structure from control theory, driving toward more interesting, intelligent, and powerful robots.
 
 **I am seeking PhD opportunities in Robotics in Fall 2025.**
- 
